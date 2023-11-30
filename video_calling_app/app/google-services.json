@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583107517294",
+    "project_id": "sample-app-b1841",
+    "storage_bucket": "sample-app-b1841.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583107517294:android:1984974f87f6b67bce7f7f",
+        "android_client_info": {
+          "package_name": "com.example.videocallingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ucHr8OSMVn4_x0QtjDEn4WH4QZvfosw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
